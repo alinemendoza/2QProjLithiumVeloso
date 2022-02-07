@@ -1,0 +1,97 @@
+body {
+	margin: 0;
+	background-color: #FAF5FF;
+	font-size: 100%;
+	font-family:'Courier New';
+}
+
+header {
+	margin: 0;
+	background-color: #FAF5FF;
+	text-align: center;
+	font-weight: normal;
+	font-size: 3em;
+	width: 100%;
+}
+
+nav {
+	background-color: #FAF5FF;
+	text-align: center;
+	font-weight: normal;
+	font-size: 1.5em;
+	width: 100%;
+}
+
+section {
+	background-color: #FAF5FF;
+	text-align: left;
+	font-weight: normal;
+	font-size: 1em;
+	width: 100%;
+}
+
+table {
+	width: 100%;
+}
+
+th, td {
+	width: 20%;
+}
+
+#page {
+	width: 100%;
+	display: table;
+}
+
+#pageRow {
+	display: table-row-group;
+	background-color: #FAF5FF;
+	font-weight: normal;
+	font-size: 1em;
+}
+
+.column1 {
+	display: table-cell;
+	width: 35%;
+	padding: 10px;
+	text-align: left;
+}
+
+.column2 {
+	display: table-cell;
+	width: 70%;
+	padding: 10px;
+	text-align: left;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #808080;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:active {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+
+img {
+	float: left;
+	width: 100%;
+}
+
+span {
+	font-weight: bold;
+}
