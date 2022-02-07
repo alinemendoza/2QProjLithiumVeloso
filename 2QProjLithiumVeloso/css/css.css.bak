@@ -6,10 +6,8 @@ body {
 }
 
 header {
-	margin: 0;
 	background-color: #FAF5FF;
 	text-align: center;
-	font-weight: normal;
 	font-size: 3em;
 	width: 100%;
 }
@@ -17,21 +15,30 @@ header {
 nav {
 	background-color: #FAF5FF;
 	text-align: center;
-	font-weight: normal;
-	font-size: 1.5em;
+	font-size: 2em;
 	width: 100%;
 }
 
 section {
 	background-color: #FAF5FF;
 	text-align: left;
-	font-weight: normal;
-	font-size: 1em;
+	font-size: 1.5em;
 	width: 100%;
+}
+
+footer {
+	text-align: center;
+	padding: 50px;
+	background-color: #C8A2C8;
+	color: white;
 }
 
 table {
 	width: 100%;
+}
+
+th, td {
+	width: 20%;
 }
 
 #page {
@@ -54,6 +61,20 @@ table {
 }
 
 .column2 {
+	display: table-cell;
+	width: 70%;
+	padding: 10px;
+	text-align: left;
+}
+
+.column3 {
+	display: table-cell;
+	width: 2%;
+	padding: 10px;
+	text-align: left;
+}
+
+.column4 {
 	display: table-cell;
 	width: 70%;
 	padding: 10px;

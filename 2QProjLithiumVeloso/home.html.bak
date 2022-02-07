@@ -27,48 +27,69 @@
 			<td> <p> <a href="trivia.html"> Trivia </a> </p>
 		</tr>
 	</table>
-	<nav>
+	</nav>
 	
 	<section>
 	
-		<div id="page">
+		<div id="pageRow">
 
-			<div id="pageBody">
+			<div class="column1">
+			
+			<img src="images/home/bts.jpg" alt="BTS">
+			<br>
+			<br>
+			<iframe width="512" height="288"
+			src="https://www.youtube.com/embed/gdZLi9oWNZg?autoplay=1&controls=1">
+			</iframe>
+			<br>
+			
+			</div>
 
-				<div class="column1">
-				
-				<img src="images/home/bts.jpg" alt="BTS">
-				<br>
-				<p> <a href="https://ibighit.com/bts/eng/discography/detail/butter-2.html"> [source] </a> </p>
-				
-				<br>
-				
-				-
-				
-				</div>
-
-				<div class="column2">
-				
-				<p>
-				<span> About BTS </span>
-				<br>
-				<br>
-				BTS is a South Korean boy band consisting of 7 members, namely Kim Namjoon, Kim Seokjin, Min Yoongi, Jung Hoseok, Park Jimin, Kim Taehyung, Jeon Jungkook. They were formed in 2010 and officially debuted in 2013 with the single album "2 Cool 4 Skool" under Big Hit Entertainment.
-				<br>
-				<br>
-				They co-write and co-produce much of their own outputs and have produced multiple hit albums with their lyricism. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth and coming of age, loss, the journey towards loving oneself, and individualism. Their work also often references literature and psychological concepts and includes an alternative universe storyline.
-				<br>
-				<br>
-				<a href="https://en.wikipedia.org/wiki/BTS"> [source] </a>
-				<p>
-				
-				</div>
-				
+			<div class="column2">
+			
+			<p>
+			<span> About BTS </span>
+			<br>
+			<br>
+			BTS is a South Korean boy band consisting of 7 members, namely Kim Namjoon, Kim Seokjin, Min Yoongi, Jung Hoseok, Park Jimin, Kim Taehyung, Jeon Jungkook. They were formed in 2010 and officially debuted in 2013 with the single album "2 Cool 4 Skool" under Big Hit Entertainment.
+			<br>
+			<br>
+			They co-write and co-produce much of their own outputs and have produced multiple hit albums with their lyricism. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth and coming of age, loss, the journey towards loving oneself, and individualism. Their work also often references literature and psychological concepts and includes an alternative universe storyline.
+			<br>
+			<p>
+			
 			</div>
 			
 		</div>
 
 	</section>
+	
+	<footer>
+
+		<div class="column3">
+			<a href="https://twitter.com/bts_twt"> <img src="images/icons/001.jpg" alt="Twitter" > </a>
+			<br>
+			<a href="https://twitter.com/bts_bighit"> <img src="images/icons/001.jpg" alt="Twitter"> </a>
+			<br>
+			<a href="https://www.instagram.com/bts.bighitofficial/"> <img src="images/icons/002.jpg" alt="Instagram"> </a>
+			<br>
+		</div>
+
+		<div class="column4">
+			<p>
+			<span> Sources: </span>
+			<br>
+			<br>
+			<a href="https://ibighit.com/bts/eng/discography/"> https://ibighit.com/bts/eng/discography/ </a>
+			<br>
+			<a href="https://www.hypable.com/bts-song-album-list-complete-guide/"> https://www.hypable.com/bts-song-album-list-complete-guide/ </a>
+			<br>
+			<a href="https://bts.fandom.com/wiki/BTS"> https://bts.fandom.com/wiki/BTS </a>
+			<br>
+			<p>
+		</div>
+	
+	</footer>
 
 </body>
 </html>

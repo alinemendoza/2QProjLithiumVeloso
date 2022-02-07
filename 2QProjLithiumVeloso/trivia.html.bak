@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> BTS-CEPTION </title>
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<meta charset="UTF-8">  
+<meta name="author" content="Sarah Shace Karlette C. Veloso"> 
+<meta name="keywords" content="Website, Project, CS3"> 
+<meta name="revised" content="06-02-2021">
+<link rel="icon" href="icon.jpg" type="image/gif">
+<link rel="stylesheet" href="css/css.css">
+</head>
+
+<body>
+
+	<header>
+	<p> <span> <a href="home.html"> BTS-CEPTION </a> </span> </p>
+	</header>
+	
+	<nav>
+	<table>
+		<tr>
+			<td> <p> <a href="home.html"> Home </a> </p> </td>
+			<td> <p> <a href="members.html"> Members </a> </p> </td>
+			<td> <p> <a href="koreanalbums.html"> Korean Albums </a> </p> </td>
+			<td> <p> <a href="japanesealbums.html"> Japanese Albums </a> </p> </td>
+			<td> <p> <span> <a href="trivia.html"> Trivia </a> </p>
+		</tr>
+	</table>
+	</nav>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• They were awarded the fifth-class Hwagwan Order of Cultural Merit by the President of South Korea for their contributions to Korean culture.
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• RM learned english by watching Friends.
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• They have 25 Guinness World Records.
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• V is ambidextrous
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• They have a variety web series called 'Run BTS'
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• J-hope used to be in an underground dance group 'Neuron'.
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• BTS was the first k-pop group to get its very own twitter emojis.
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• Jimin is trained in modern dance
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• 'Butter' occupied the top spot on Billboard Hot 100 for 10 weeks (9 of which are consecutive.)
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<section>
+	
+		<div id="pageRow">
+
+			<div class="column2">
+			
+			<p>
+			• 
+			<br>
+			<br>
+			<p>
+			
+			</div>
+			
+		</div>
+
+	</section>
+	
+	<footer>
+
+		<div class="column3">
+			<a href="https://twitter.com/bts_twt"> <img src="images/icons/001.jpg" alt="Twitter" > </a>
+			<br>
+			<a href="https://twitter.com/bts_bighit"> <img src="images/icons/001.jpg" alt="Twitter"> </a>
+			<br>
+			<a href="https://www.instagram.com/bts.bighitofficial/"> <img src="images/icons/002.jpg" alt="Instagram"> </a>
+			<br>
+		</div>
+
+		<div class="column4">
+			<p>
+			<span> Sources: </span>
+			<br>
+			<br>
+			<a href="https://ibighit.com/bts/eng/discography/"> https://ibighit.com/bts/eng/discography/ </a>
+			<br>
+			<a href="https://bts.fandom.com/wiki/BTS"> https://bts.fandom.com/wiki/BTS </a>
+			<br>
+			<a href="https://www.hypable.com/bts-song-album-list-complete-guide/"> https://www.hypable.com/bts-song-album-list-complete-guide/ </a>
+			<br>
+			<p>
+		</div>
+	
+	</footer>
+
+</body>
